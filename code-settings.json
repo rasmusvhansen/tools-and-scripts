@@ -1,0 +1,20 @@
+{
+  // Place your settings in this file to overwrite the default settings
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "typescript.check.tscVersion": false,
+  "window.zoomLevel": 0,
+  // "editor.cursorStyle": "block",
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "workbench.colorTheme": "Atom One Light",
+  "workbench.iconTheme": "vs-seti",
+  "git.enableSmartCommit": true
+}
